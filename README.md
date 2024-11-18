@@ -1,2 +1,2 @@
 # HikVisionAliceToolkit
-A tookkit based on PoC of HikVision 
+A toolkit based on PoC of HikVision 
