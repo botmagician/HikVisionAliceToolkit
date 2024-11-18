@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HikVisionAliceToolkit", "HikVisionAliceToolkit\HikVisionAliceToolkit.csproj", "{128EDA12-B62E-4301-BD5D-034A71B447EA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HikCameraScan", "HikCameraScan\HikCameraScan.csproj", "{B264F6D8-F41D-45B0-80B9-49F5F99BD077}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Attacker36260", "36260Attacker\Attacker36260.csproj", "{24CEAF51-DB02-42B7-B8C5-301B2F0D5021}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{128EDA12-B62E-4301-BD5D-034A71B447EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{128EDA12-B62E-4301-BD5D-034A71B447EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{128EDA12-B62E-4301-BD5D-034A71B447EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{128EDA12-B62E-4301-BD5D-034A71B447EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B264F6D8-F41D-45B0-80B9-49F5F99BD077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B264F6D8-F41D-45B0-80B9-49F5F99BD077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B264F6D8-F41D-45B0-80B9-49F5F99BD077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B264F6D8-F41D-45B0-80B9-49F5F99BD077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24CEAF51-DB02-42B7-B8C5-301B2F0D5021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24CEAF51-DB02-42B7-B8C5-301B2F0D5021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24CEAF51-DB02-42B7-B8C5-301B2F0D5021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24CEAF51-DB02-42B7-B8C5-301B2F0D5021}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35B410F4-462A-4796-B06B-F04EF200B09E}
+	EndGlobalSection
+EndGlobal

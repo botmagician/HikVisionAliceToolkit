@@ -1,0 +1,14 @@
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\36260Attacker\bin\Release\net8.0\Attacker36260.exe
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\36260Attacker\bin\Release\net8.0\Attacker36260.deps.json
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\36260Attacker\bin\Release\net8.0\Attacker36260.runtimeconfig.json
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\36260Attacker\bin\Release\net8.0\Attacker36260.dll
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\36260Attacker\bin\Release\net8.0\Attacker36260.pdb
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\36260Attacker\obj\Release\net8.0\Attacker36260.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\36260Attacker\obj\Release\net8.0\Attacker36260.AssemblyInfoInputs.cache
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\36260Attacker\obj\Release\net8.0\Attacker36260.AssemblyInfo.cs
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\36260Attacker\obj\Release\net8.0\Attacker36260.csproj.CoreCompileInputs.cache
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\36260Attacker\obj\Release\net8.0\Attacker36260.dll
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\36260Attacker\obj\Release\net8.0\refint\Attacker36260.dll
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\36260Attacker\obj\Release\net8.0\Attacker36260.pdb
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\36260Attacker\obj\Release\net8.0\Attacker36260.genruntimeconfig.cache
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\36260Attacker\obj\Release\net8.0\ref\Attacker36260.dll

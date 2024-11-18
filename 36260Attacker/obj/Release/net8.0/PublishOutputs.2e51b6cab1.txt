@@ -1,0 +1,5 @@
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\36260Attacker\bin\Release\net8.0\publish\Attacker36260.exe
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\36260Attacker\bin\Release\net8.0\publish\Attacker36260.dll
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\36260Attacker\bin\Release\net8.0\publish\Attacker36260.deps.json
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\36260Attacker\bin\Release\net8.0\publish\Attacker36260.runtimeconfig.json
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\36260Attacker\bin\Release\net8.0\publish\Attacker36260.pdb

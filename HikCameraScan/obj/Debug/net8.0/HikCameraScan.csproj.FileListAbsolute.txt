@@ -1,0 +1,16 @@
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\HikCameraScan\bin\Debug\net8.0\HikCameraScan.exe
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\HikCameraScan\bin\Debug\net8.0\HikCameraScan.deps.json
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\HikCameraScan\bin\Debug\net8.0\HikCameraScan.runtimeconfig.json
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\HikCameraScan\bin\Debug\net8.0\HikCameraScan.dll
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\HikCameraScan\obj\Debug\net8.0\HikCameraScan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\HikCameraScan\obj\Debug\net8.0\HikCameraScan.AssemblyInfoInputs.cache
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\HikCameraScan\obj\Debug\net8.0\HikCameraScan.AssemblyInfo.cs
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\HikCameraScan\obj\Debug\net8.0\HikCameraScan.csproj.CoreCompileInputs.cache
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\HikCameraScan\obj\Debug\net8.0\HikCameraScan.dll
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\HikCameraScan\obj\Debug\net8.0\refint\HikCameraScan.dll
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\HikCameraScan\obj\Debug\net8.0\HikCameraScan.genruntimeconfig.cache
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\HikCameraScan\obj\Debug\net8.0\ref\HikCameraScan.dll
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\HikCameraScan\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\HikCameraScan\obj\Debug\net8.0\HikCameraScan.csproj.AssemblyReference.cache
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\HikCameraScan\obj\Debug\net8.0\HikCamer.01F33D83.Up2Date
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\HikCameraScan\bin\Debug\net8.0\Renci.SshNet.dll

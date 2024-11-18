@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HikVisionAliceToolkit/1.0.0": {
+        "dependencies": {
+          "HtmlAgilityPack": "1.11.67"
+        },
+        "runtime": {
+          "HikVisionAliceToolkit.dll": {}
+        }
+      },
+      "HtmlAgilityPack/1.11.67": {
+        "runtime": {
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {
+            "assemblyVersion": "1.11.67.0",
+            "fileVersion": "1.11.67.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HikVisionAliceToolkit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HtmlAgilityPack/1.11.67": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xnt6f8E56oK9nLqgkF42bsVSAkUuIuJnSfvzimK7GwvbhdXWRmGsx4A8AKmLOlCUq1rVSUADKalxnSMizHt4Mg==",
+      "path": "htmlagilitypack/1.11.67",
+      "hashPath": "htmlagilitypack.1.11.67.nupkg.sha512"
+    }
+  }
+}
