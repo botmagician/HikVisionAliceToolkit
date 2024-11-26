@@ -17,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B264F6D8-F41D-45B0-80B9-49F5F99BD077}|HikCameraScan\\HikCameraScan.csproj|c:\\users\\f4uicecream\\source\\repos\\hikvisionalicetoolkit\\hikcamerascan\\scandocpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B264F6D8-F41D-45B0-80B9-49F5F99BD077}|HikCameraScan\\HikCameraScan.csproj|solutionrelative:hikcamerascan\\scandocpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BFEC203-7E72-40C7-9746-36C27EDCA139}|Attacker36260Lib\\Attacker36260Lib.csproj|c:\\users\\f4uicecream\\source\\repos\\hikvisionalicetoolkit\\attacker36260lib\\poc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BFEC203-7E72-40C7-9746-36C27EDCA139}|Attacker36260Lib\\Attacker36260Lib.csproj|solutionrelative:attacker36260lib\\poc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -53,8 +49,7 @@
               "ToolTip": "C:\\Users\\F4UIcecream\\source\\repos\\HikVisionAliceToolkit\\HikCameraScan\\HikCameraScan.csproj",
               "RelativeToolTip": "HikCameraScan\\HikCameraScan.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-26T11:51:22.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T11:51:22.221Z"
             },
             {
               "$type": "Document",
@@ -62,9 +57,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\F4UIcecream\\source\\repos\\HikVisionAliceToolkit\\HikCameraScan\\Program.cs",
               "RelativeDocumentMoniker": "HikCameraScan\\Program.cs",
-              "ToolTip": "C:\\Users\\F4UIcecream\\source\\repos\\HikVisionAliceToolkit\\HikCameraScan\\Program.cs*",
-              "RelativeToolTip": "HikCameraScan\\Program.cs*",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAADoAAAAyAAAA",
+              "ToolTip": "C:\\Users\\F4UIcecream\\source\\repos\\HikVisionAliceToolkit\\HikCameraScan\\Program.cs",
+              "RelativeToolTip": "HikCameraScan\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T11:31:18.381Z",
               "EditorCaption": ""
@@ -79,21 +74,7 @@
               "RelativeToolTip": "HikCameraScan\\PoC36260Scan.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAE0AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T11:24:03.018Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Poc.cs",
-              "DocumentMoniker": "C:\\Users\\F4UIcecream\\source\\repos\\HikVisionAliceToolkit\\Attacker36260Lib\\Poc.cs",
-              "RelativeDocumentMoniker": "Attacker36260Lib\\Poc.cs",
-              "ToolTip": "C:\\Users\\F4UIcecream\\source\\repos\\HikVisionAliceToolkit\\Attacker36260Lib\\Poc.cs",
-              "RelativeToolTip": "Attacker36260Lib\\Poc.cs",
-              "ViewState": "AQIAAKUAAAAAAAAAAAAAAAsAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T11:22:07.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T11:24:03.018Z"
             },
             {
               "$type": "Document",
@@ -105,8 +86,7 @@
               "RelativeToolTip": "HikCameraScan\\ScanDocPage.cs",
               "ViewState": "AQIAAFcAAAAAAAAAAAAAACEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T11:41:37.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-17T11:41:37.841Z"
             }
           ]
         }
