@@ -1,2 +1,0 @@
-C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\36260Attacker\bin\Release\net8.0\publish\win-x64\Attacker36260.exe
-C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\36260Attacker\bin\Release\net8.0\publish\win-x64\Attacker36260.pdb
