@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HikVisionAliceToolkit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f86b352993ba084277a0555b28831a77a6abb53d")]
 [assembly: System.Reflection.AssemblyProductAttribute("HikVisionAliceToolkit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HikVisionAliceToolkit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

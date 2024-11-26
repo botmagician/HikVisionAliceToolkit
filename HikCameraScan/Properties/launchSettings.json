@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HikCameraScan": {
+      "commandName": "Project",
+      "commandLineArgs": "-f 35\\"
+    }
+  }
+}

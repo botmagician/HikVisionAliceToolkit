@@ -15,3 +15,4 @@ C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\HikVisionAliceToolkit\ob
 C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\HikVisionAliceToolkit\bin\Debug\net8.0\HtmlAgilityPack.dll
 C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\HikVisionAliceToolkit\obj\Debug\net8.0\HikVisionAliceToolkit.csproj.AssemblyReference.cache
 C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\HikVisionAliceToolkit\obj\Debug\net8.0\HikVisio.1DA192D3.Up2Date
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\HikVisionAliceToolkit\obj\Debug\net8.0\HikVisionAliceToolkit.sourcelink.json
