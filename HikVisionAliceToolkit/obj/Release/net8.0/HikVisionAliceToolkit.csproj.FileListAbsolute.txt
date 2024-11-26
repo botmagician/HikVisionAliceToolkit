@@ -15,3 +15,4 @@ C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\HikVisionAliceToolkit\ob
 C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\HikVisionAliceToolkit\obj\Release\net8.0\HikVisionAliceToolkit.pdb
 C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\HikVisionAliceToolkit\obj\Release\net8.0\HikVisionAliceToolkit.genruntimeconfig.cache
 C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\HikVisionAliceToolkit\obj\Release\net8.0\ref\HikVisionAliceToolkit.dll
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\HikVisionAliceToolkit\obj\Release\net8.0\HikVisionAliceToolkit.sourcelink.json

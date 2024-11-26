@@ -13,3 +13,6 @@ C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\HikCameraScan\obj\Releas
 C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\HikCameraScan\obj\Release\net8.0\HikCameraScan.genruntimeconfig.cache
 C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\HikCameraScan\obj\Release\net8.0\ref\HikCameraScan.dll
 C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\HikCameraScan\bin\Release\net8.0\Renci.SshNet.dll
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\HikCameraScan\obj\Release\net8.0\HikCameraScan.sourcelink.json
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\HikCameraScan\bin\Release\net8.0\Attacker36260Lib.dll
+C:\Users\F4UIcecream\source\repos\HikVisionAliceToolkit\HikCameraScan\bin\Release\net8.0\Attacker36260Lib.pdb

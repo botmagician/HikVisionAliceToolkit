@@ -6,6 +6,7 @@ using System.Net.NetworkInformation;
 using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
+using Attacker36260Lib;
 
 namespace HikCameraScan
 {
@@ -67,20 +68,8 @@ namespace HikCameraScan
                     }
                     try
                     {
-                        string _proto = "http";
-                        string tgtUri= _proto + "://" + ip.ToString() + "/ISAPI/Security/sessionLogin/capabilities?username=adsd";
-                        HttpResponseMessage respMsg = detector.Client.GetAsync(tgtUri).Result;
-                        if (respMsg.StatusCode == HttpStatusCode.Moved)
-                        {
-                            if (_proto == "http")
-                            {
-                                _proto = "https";
-                            }
-                            tgtUri = _proto + "://" + ip.ToString() + "/ISAPI/Security/sessionLogin/capabilities?username=adsd";
-                            respMsg = detector.Client.GetAsync(tgtUri).Result;
-                        }
-                        string nxstr = respMsg.Content.ReadAsStringAsync().Result;
-                        if (nxstr.Contains("<?xml"))
+                        PoC36260Attacker poc = new PoC36260Attacker(detector.Client, ip);
+                        if (poc.TestExist() == VulnerableCode.Vulnerable)
                         {
                             return true;
                         }

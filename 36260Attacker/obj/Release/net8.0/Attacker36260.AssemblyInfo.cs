@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Attacker36260")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd05c347725716db8523543b65addc4a35b5d676")]
 [assembly: System.Reflection.AssemblyProductAttribute("Attacker36260")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Attacker36260")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

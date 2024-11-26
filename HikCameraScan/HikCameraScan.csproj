@@ -20,4 +20,8 @@
     <PackageReference Include="SSH.NET" Version="2024.1.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Attacker36260Lib\Attacker36260Lib.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -18,4 +18,8 @@
     <DebugType>portable</DebugType>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Attacker36260Lib\Attacker36260Lib.csproj" />
+  </ItemGroup>
+
 </Project>
