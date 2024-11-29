@@ -54,7 +54,7 @@ namespace HikCameraScan
         }
         public static void WriteResult(List<CamDetectResult> result,ScanConfig config,string folder)
         {
-            if(!Directory.Exists(folder))
+            if(folder!=""&&Directory.Exists(folder))
             {
                 Directory.CreateDirectory(folder);
             }

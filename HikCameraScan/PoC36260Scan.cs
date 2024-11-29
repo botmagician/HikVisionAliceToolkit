@@ -22,6 +22,12 @@ namespace HikCameraScan
         {
             string? startIP, endIP;
             Console.WriteLine("Config type:PoC36260");
+         
+            
+            
+            
+            
+            
             Console.Write("Start IP:");
             startIP = Console.ReadLine();
             Console.Write("End IP:");
