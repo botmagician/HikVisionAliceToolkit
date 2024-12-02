@@ -19,7 +19,7 @@ namespace HikCameraScan
             _client = new HttpClient(new SocketsHttpHandler() );
             _client.Timeout = TimeSpan.FromMilliseconds(4000);
         }
-        public List<CamDetectResult> StartDetect()
+        public List<CamDetectResult> StartDetect(int ths)
         {
             List<CamDetectResult> result = new List<CamDetectResult>();
             List<Task<List<CamDetectResult>>> taskList = new List<Task<List<CamDetectResult>>>();
@@ -27,8 +27,7 @@ namespace HikCameraScan
             // 获取IP地址列表
             var ipList = _config.EnumerateIPRange(_config.StartIP, _config.EndIP).ToList();
             int totalIps = ipList.Count;
-            Console.Write("thread counts：");
-            int ths = Int32.Parse(Console.ReadLine());
+            
             int chunkSize = totalIps / ths; // 每个线程处理八分之一
 
             // 创建8个任务，每个任务处理1/8的IP地址

@@ -22,16 +22,47 @@ namespace HikCameraScan
         {
             string? startIP, endIP;
             Console.WriteLine("Config type:PoC36260");
-         
-            
-            
-            
-            
-            
             Console.Write("Start IP:");
             startIP = Console.ReadLine();
             Console.Write("End IP:");
             endIP = Console.ReadLine();
+            if (startIP == null || endIP == null)
+            {
+                Console.WriteLine("Wrong input!");
+                throw new InvalidDataException("Null data");
+            }
+            return new PoC36260Scan(startIP, endIP, new PoC36260Interpreter());
+        }
+        public static PoC36260Scan LoadFromParam(string[] args)
+        {
+            string? startIP = null, endIP = null;
+            for (int i = 0; i < args.Length; i += 1)
+            {
+                if (args[i].ToLower().Contains("--startip"))
+                {
+                    string[] ct = args[i].Split('=');
+                    if (ct.Length < 2)
+                    {
+                        startIP = null;
+                    }
+                    else
+                    {
+                        startIP = ct[1];
+                    }
+                }
+                if (args[i].ToLower().Contains("--endip"))
+                {
+                    string[] ct = args[i].Split('=');
+                    if (ct.Length < 2)
+                    {
+                        endIP = null;
+                    }
+                    else
+                    {
+                        endIP = ct[1];
+                    }
+                }
+            }
             if (startIP == null || endIP == null)
             {
                 Console.WriteLine("Wrong input!");

@@ -2,7 +2,7 @@
   "profiles": {
     "HikCameraScan": {
       "commandName": "Project",
-      "commandLineArgs": "-f 35\\"
+      "commandLineArgs": "-f 35\\ -p --configtype=36260scan --startip=10.22.13.1 --endip=10.22.13.254 --threads=16"
     }
   }
 }

@@ -26,6 +26,43 @@ namespace HikCameraScan
             }
             return new ScanDocPageConfig(startIP,endIP,new ScanDocPageInterpreter());
         }
+        public static ScanDocPageConfig LoadFromParam(string[] args)
+        {
+            string? startIP=null, endIP=null;
+            for (int i = 0; i < args.Length; i += 1)
+            {
+                if (args[i].ToLower().Contains("--startip"))
+                {
+                    string[] ct = args[i].Split('=');
+                    if (ct.Length < 2)
+                    {
+                        startIP = null;
+                    }
+                    else
+                    {
+                        startIP = ct[1];
+                    }
+                }
+                if (args[i].ToLower().Contains("--endip"))
+                {
+                    string[] ct = args[i].Split('=');
+                    if (ct.Length < 2)
+                    {
+                        endIP = null;
+                    }
+                    else
+                    {
+                        endIP = ct[1];
+                    }
+                }
+            }
+            if (startIP == null || endIP == null)
+            {
+                Console.WriteLine("Wrong input!");
+                throw new InvalidDataException("Null data");
+            }
+            return new ScanDocPageConfig(startIP, endIP, new ScanDocPageInterpreter());
+        }
         public ScanDocPageConfig(string startIP,string endIP,IContentInterpreter interpreter):base(startIP,endIP,"/doc/page/login.asp",interpreter)
         {
             _resulTypeInfo = "DocPageExist";
